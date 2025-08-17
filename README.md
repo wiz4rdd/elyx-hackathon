@@ -72,7 +72,7 @@ You need to run two separate processes for the Next.js app and the Genkit AI flo
     ```
 
 3.  **Open the application:**
-    Open [http://localhost:9002](http://localhost:9002) in your browser to see the application.
+    Open https://elyx-hackathon-sigma.vercel.app/dashboard in your browser to see the application.
 
 ## Project Structure
 
